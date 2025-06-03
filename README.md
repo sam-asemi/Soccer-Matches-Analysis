@@ -13,4 +13,4 @@ Assume a 10% significance level, and use the following null and alternative hypo
 H0: The mean number of goals scored in women's international soccer matches is the same as men's.
 
 Ha: The mean number of goals scored in women's international soccer matches is greater than men's.
-![Preview]https://github.com/sam-asemi/Soccer-Matches-Analysis/blob/main/soccer-pitch.jpg
+![Preview](https://github.com/sam-asemi/Soccer-Matches-Analysis/blob/main/soccer-pitch.jpg)
